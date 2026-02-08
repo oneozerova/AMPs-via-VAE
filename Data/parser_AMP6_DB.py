@@ -6,7 +6,6 @@ from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin
 
 import urllib3
-import certifi_win32
 import certifi
 import requests
 from bs4 import BeautifulSoup
