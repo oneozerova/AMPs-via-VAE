@@ -1,0 +1,39 @@
+{
+  "target_cols": [
+    "is_antibacterial",
+    "is_anti_gram_positive",
+    "is_anti_gram_negative",
+    "is_antifungal",
+    "is_anticancer",
+    "is_antiviral",
+    "is_antiparasitic"
+  ],
+  "best_thresholds": {
+    "is_antibacterial": 0.2,
+    "is_anti_gram_positive": 0.2,
+    "is_anti_gram_negative": 0.30000000000000004,
+    "is_antifungal": 0.6,
+    "is_anticancer": 0.25,
+    "is_antiviral": 0.75,
+    "is_antiparasitic": 0.9
+  },
+  "test_macro_default": {
+    "macro_auroc": 0.8195015233731471,
+    "macro_auprc": 0.6395693955831389,
+    "macro_f1": 0.6126858132012355,
+    "macro_precision": 0.5474630385955731,
+    "macro_recall": 0.7461565898929626,
+    "macro_mcc": 0.4295896994465374,
+    "macro_balanced_acc": 0.7332932587743769,
+    "micro_f1": 0.824764468371467
+  },
+  "test_macro_tuned": {
+    "macro_auroc": 0.8195015233731471,
+    "macro_auprc": 0.6395693955831389,
+    "macro_f1": 0.6252108500932047,
+    "macro_precision": 0.5813571505362136,
+    "macro_recall": 0.7129850197689114,
+    "macro_mcc": 0.416260409471637,
+    "micro_f1": 0.8275307980717729
+  }
+}
