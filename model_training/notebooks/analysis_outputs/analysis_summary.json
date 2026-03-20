@@ -1,0 +1,13 @@
+{
+  "reconstruction_val": {
+    "token_accuracy": 0.3957322987390883,
+    "exact_match_rate": 0.0
+  },
+  "reconstruction_test": {
+    "token_accuracy": 0.4181604466647076,
+    "exact_match_rate": 0.0
+  },
+  "generation_metrics_path": "C:\\Users\\artem\\Study\\AMPs-via-VAE\\model_training\\notebooks\\analysis_outputs\\generation_metrics.csv",
+  "comparison_sequences_path": "C:\\Users\\artem\\Study\\AMPs-via-VAE\\model_training\\notebooks\\analysis_outputs\\real_vs_generated_sequences.csv",
+  "physicochemical_properties_path": "C:\\Users\\artem\\Study\\AMPs-via-VAE\\model_training\\notebooks\\analysis_outputs\\physicochemical_properties.csv"
+}
