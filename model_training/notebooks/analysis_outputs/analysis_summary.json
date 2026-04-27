@@ -1,10 +1,10 @@
 {
   "reconstruction_val": {
-    "token_accuracy": 0.3957322987390883,
+    "token_accuracy": 0.2591687041564792,
     "exact_match_rate": 0.0
   },
   "reconstruction_test": {
-    "token_accuracy": 0.4181604466647076,
+    "token_accuracy": 0.30050381927515035,
     "exact_match_rate": 0.0
   },
   "generation_metrics_path": "C:\\Users\\artem\\Study\\AMPs-via-VAE\\model_training\\notebooks\\analysis_outputs\\generation_metrics.csv",

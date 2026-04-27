@@ -2,6 +2,9 @@
 
 Conditional variational autoencoder (cVAE) for **antimicrobial peptide (AMP)** generation with multi-label conditioning, post-training analysis, and classifier-based in-silico screening.
 
+## Final presentation:
+https://docs.google.com/presentation/d/1HMDuLTpjGTqzt63WCJ8JkpLLZS2B6vycQDF1sAcnUN8/edit?usp=sharing
+
 ## Project status
 
 This repository is the **final implementation stage** of the course project.  

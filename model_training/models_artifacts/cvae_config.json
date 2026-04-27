@@ -1,13 +1,13 @@
 {
   "embed_dim": 64,
-  "hidden_dim": 128,
+  "hidden_dim_enc": 128,
+  "hidden_dim_dec": 64,
   "latent_dim": 32,
-  "cond_dim": 7,
+  "cond_dim": 6,
   "dropout": 0.2,
   "lr": 0.001,
   "seed": 42,
   "condition_cols": [
-    "is_antibacterial",
     "is_anti_gram_positive",
     "is_anti_gram_negative",
     "is_antifungal",
